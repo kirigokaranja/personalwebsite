@@ -44,7 +44,7 @@
 					</div>
 				</div>
 				<div class="col-md-8 text-md-right header-buttons">
-					<a href="/documents/cv.docx" download="KARANJA SHARON KIRIGO CV" class="site-btn">Download CV</a>
+					<a href="/documents/KARANJA%20SHARON%20KIRIGO%20CV.docx" download class="site-btn">Download CV</a>
 					<!--<a href="#" class="site-btn">Discover me</a>-->
 				</div>
 			</div>
@@ -92,11 +92,11 @@
 				<div class="col-xl-10 offset-xl-1">
 					<div class="social-link-warp">
 						<div class="social-links">
-							<a href=""><i class="fa fa-pinterest"></i></a>
-							<a href=""><i class="fa fa-linkedin"></i></a>
-							<a href=""><i class="fa fa-instagram"></i></a>
-							<a href=""><i class="fa fa-facebook"></i></a>
-							<a href=""><i class="fa fa-twitter"></i></a>
+							<a href="https://www.pinterest.com/kirigokaranja/"><i class="fa fa-pinterest"></i></a>
+							<a href="https://www.linkedin.com/in/kirigo-karanja-b9133116b/"><i class="fa fa-linkedin"></i></a>
+							<a href="https://www.instagram.com/___kirigo/"><i class="fa fa-instagram"></i></a>
+							<a href="https://github.com/kirigokaranja?tab=repositories"><i class="fa fa-github"></i></a>
+							<a href="https://twitter.com/sharonkirigo"><i class="fa fa-twitter"></i></a>
 						</div>
 						<h2 class="hidden-md hidden-sm">My Social Profiles</h2>
 					</div>
@@ -156,12 +156,12 @@
 							<h4>Limuru Girls High School</h4>
 							<p>Mean Grade: A- (75 points)</p>
 						</li>
-						<li>
-							<h2>2001-2011</h2>
-							<h3>Kenya certificate of primary education</h3>
-							<h4>Thika Memorial Church School</h4>
-							<p>Mean grade: A- (385 points) </p>
-						</li>
+<!--						<li>-->
+<!--							<h2>2001-2011</h2>-->
+<!--							<h3>Kenya certificate of primary education</h3>-->
+<!--							<h4>Thika Memorial Church School</h4>-->
+<!--							<p>Mean grade: A- (385 points) </p>-->
+<!--						</li>-->
 					</ul>
 				</div>
 			</div>
@@ -201,21 +201,27 @@
 					<div class="review-slider owl-carousel">
 						<div class="single-review">
 							<div class="qut">“</div>
-							<p>Sit amet, consectetur adipiscing elit. Sed porttitor orci ut sapien scelerisque viverra. Sed trist ique justo nec mauris efficitur, ut lacinia elit dapibus. In egestas elit in dap ibus laoreet. Duis magna libero, fermentum ut facilisis id, pulvinar eget tortor. Vestibulum pelle ntesque tincidunt lorem, vitae euismod felis porttitor sed. </p>
-							<h3>Robert G. Smith</h3>
-							<h4>Manager, Company</h4>
+							<p> She is a hardworking, honest individual. She is a good timekeeper, always willing to learn new
+                                skills. She is friendly, helpful and polite, has a good sense of humour. She is able to work
+                                independently in busy environments and also within a team setting. She is outgoing and tactful,
+                                and able to listen effectively when solving problems </p>
+							<h3>Eunice Manyasi</h3>
+							<h4>Lecturer, Strathmore University</h4>
 						</div>
+<!--						<div class="single-review">-->
+<!--							<div class="qut">“</div>-->
+<!--							<p> </p>-->
+<!--							<h3>Mary Celine Oluoch</h3>-->
+<!--							<h4>Mentor, Strathmore University</h4>-->
+<!--						</div>-->
 						<div class="single-review">
 							<div class="qut">“</div>
-							<p>Sit amet, consectetur adipiscing elit. Sed porttitor orci ut sapien scelerisque viverra. Sed trist ique justo nec mauris efficitur, ut lacinia elit dapibus. In egestas elit in dap ibus laoreet. Duis magna libero, fermentum ut facilisis id, pulvinar eget tortor. Vestibulum pelle ntesque tincidunt lorem, vitae euismod felis porttitor sed. </p>
-							<h3>Robert G. Smith</h3>
-							<h4>Manager, Company</h4>
-						</div>
-						<div class="single-review">
-							<div class="qut">“</div>
-							<p>Sit amet, consectetur adipiscing elit. Sed porttitor orci ut sapien scelerisque viverra. Sed trist ique justo nec mauris efficitur, ut lacinia elit dapibus. In egestas elit in dap ibus laoreet. Duis magna libero, fermentum ut facilisis id, pulvinar eget tortor. Vestibulum pelle ntesque tincidunt lorem, vitae euismod felis porttitor sed. </p>
-							<h3>Robert G. Smith</h3>
-							<h4>Manager, Company</h4>
+							<p>She is a punctual and motivated individual who is able to work in a busy environment and
+                                produce high standards of work. She is an excellent team worker and am able to take
+                                instructions from all levels and build up good working relationships with all colleagues. She is
+                                flexible, reliable and possess excellent time keeping skills. </p>
+							<h3>Omae Oteri</h3>
+							<h4>Lecturer, Strathmore University</h4>
 						</div>
 					</div>
 				</div>
@@ -242,16 +248,16 @@
 				<div class="row">
 					<div class="col-xl-3 col-lg-6 col-md-6">
 						<div class="portfolio-item">
-							<a href="img/portfolio/1.jpg" class="set-bg port-pic" data-setbg="img/portfolio/1.jpg"></a>
-							<h2>Brand Campaign</h2>
-							<p>Graphic design</p>
+							<a href="profileimages/fotohomepage.PNG" class="set-bg port-pic" data-setbg="profileimages/fotohomepage.PNG"></a>
+							<h2> <a href="https://github.com/kirigokaranja?tab=repositories">Foto Bookings</a> </h2>
+							<p>Web Application</p>
 						</div>
 					</div>
 					<div class="col-xl-3 col-lg-6 col-md-6">
 						<div class="portfolio-item">
-							<a href="img/portfolio/2.jpg" class="set-bg port-pic" data-setbg="img/portfolio/2.jpg"></a>
-							<h2>A Corporate Identity</h2>
-							<p>Graphic design</p>
+							<a href="profileimages/stephaniehomepage.PNG" class="set-bg port-pic" data-setbg="profileimages/stephaniehomepage.PNG"></a>
+							<h2> <a href="https://github.com/kirigokaranja/CHERONO">Stephanie</a> </h2>
+							<p>Website</p>
 						</div>
 					</div>
 					<div class="col-xl-3 col-lg-6 col-md-6">
