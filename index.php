@@ -44,7 +44,7 @@
 					</div>
 				</div>
 				<div class="col-md-8 text-md-right header-buttons">
-					<a href="#" class="site-btn">Download CV</a>
+					<a href="/documents/cv.docx" download="KARANJA SHARON KIRIGO CV" class="site-btn">Download CV</a>
 					<!--<a href="#" class="site-btn">Discover me</a>-->
 				</div>
 			</div>
