@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Kirigo Karanja</title>
+	<title>Sharon Kirigo Karanja</title>
 	<meta charset="UTF-8">
-	<meta name="description" content="Personal website for Kirigo Karanja showcasing her work and projects and resume">
+	<meta name="description" content="The official personal website of developer Kirigo Karanja. Discover her works , projects and get to know her more.">
 	<meta name="keywords" content="resume, kirigo karanja, personal, website, web developer">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name=“robots” content=“follow”>
 	<!-- Favicon -->   
 	<link href="img/favicon.ico" rel="shortcut icon"/>
 
@@ -44,7 +45,7 @@
 					</div>
 				</div>
 				<div class="col-md-8 text-md-right header-buttons">
-					<a href="/documents/KARANJA%20SHARON%20KIRIGO%20CV.docx" download class="site-btn">Download CV</a>
+					<a href="documents/KARANJA%20SHARON%20KIRIGO%20CV.docx" download class="site-btn">Download CV</a>
 					<!--<a href="#" class="site-btn">Discover me</a>-->
 				</div>
 			</div>
@@ -75,7 +76,8 @@
 						</div>
 						<div class="col-lg-6">
 							<figure class="hero-image">
-								<img src="img/profile.jpg" alt="5">
+								<img src="img/profile.jpg" alt="my profile picture"><br>
+                                <a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@marcusvlewis?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Marcus Lewis"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-1px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M20.8 18.1c0 2.7-2.2 4.8-4.8 4.8s-4.8-2.1-4.8-4.8c0-2.7 2.2-4.8 4.8-4.8 2.7.1 4.8 2.2 4.8 4.8zm11.2-7.4v14.9c0 2.3-1.9 4.3-4.3 4.3h-23.4c-2.4 0-4.3-1.9-4.3-4.3v-15c0-2.3 1.9-4.3 4.3-4.3h3.7l.8-2.3c.4-1.1 1.7-2 2.9-2h8.6c1.2 0 2.5.9 2.9 2l.8 2.4h3.7c2.4 0 4.3 1.9 4.3 4.3zm-8.6 7.5c0-4.1-3.3-7.5-7.5-7.5-4.1 0-7.5 3.4-7.5 7.5s3.3 7.5 7.5 7.5c4.2-.1 7.5-3.4 7.5-7.5z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Marcus Lewis</span></a>
 							</figure>
 						</div>
 					</div>
@@ -262,7 +264,7 @@
 					</div>
 					<div class="col-xl-3 col-lg-6 col-md-6">
 						<div class="portfolio-item">
-							<a href="img/portfolio/3.jpg" class="set-bg port-pic" data-setbg="img/portfolio/3.jpg"></a>
+							<a href="img/portfolio/3.jpg" class="set-bg port-pic" data-setbg="img/portfolio/3.jpg" ></a>
 							<h2>Web Design Website</h2>
 							<p>Graphic design</p>
 						</div>
@@ -340,7 +342,7 @@
 									<div class="circle-progress">
 										<div id="progress2" class="prog-circle"></div>
 										<div class="progress-info">
-											<h2>83%</h2>
+											<h2>53%</h2>
 										</div>
 										<div class="prog-title">
 											<h3>Android Apps</h3>
@@ -352,7 +354,7 @@
 						<div class="col-lg-3 col-md-6">
 							<div class="fact-box">
 								<div class="fact-content">
-									<img src="img/icon/1-w.png" alt="">
+									<img src="img/icon/1-w.png" alt="Number of years of experience">
 									<h2>3</h2>
 									<p>Years of Experience</p>
 								</div>
@@ -382,17 +384,17 @@
 					<div class="section-title">
 						<h2>Contact Me</h2>
 					</div>
-					<form class="contact-form">
+					<form class="contact-form" action="contact.php" method="post">
 						<div class="row">
 							<div class="col-md-6">
-								<input type="text" placeholder="Name">
+								<input type="text" placeholder="Name" name="name" required>
 							</div>
 							<div class="col-md-6">
-								<input type="text" placeholder="E-mail">
+								<input type="text" placeholder="E-mail" name="email" required>
 							</div>
 							<div class="col-md-12">
-								<input type="text" placeholder="Subject">
-								<textarea placeholder="Message"></textarea>
+								<input type="text" placeholder="Subject" name="subject" required>
+								<textarea placeholder="Message" name="message" required></textarea>
 							</div>
 						</div>
 						<div class="text-md-right">
