@@ -14,7 +14,7 @@ date_default_timezone_set("Africa/Nairobi");
 $date = date("Y/m/d h:i:sa");
 
 
-$sql = "INSERT INTO `Emails`( `Date`) VALUES ('$date')";
+$sql = "INSERT INTO `emails`( `Date`) VALUES ('$date')";
 
 
 $name= $_POST['name'];
